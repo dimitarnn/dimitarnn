@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! I'm Dimitar 👋
+
+* 🏠 Born in Varna, Bulgaria
+* 📓 University student
+* 💻 Worked with: C++, C#, JavaScript, Python
+* 💬 Contacts: [Facebook](https://www.facebook.com/destroyder.aliendestroyder)
+* 📧 Email: dimitar.nedelchev03@gmail.com
+* 🔥 Hobbies: 💪 Sports, 📖 Books, 🤘 Music
 
 <!--
 **dimitarnn/dimitarnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
